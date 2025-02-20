@@ -1,0 +1,2 @@
+[File] This is a warning information.
+[File] This is an error information.
